@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue for a global/travel feel */
+    color: #333;
+}
+.navbar {
+    background-color: #007bff; /* Trustworthy blue */
+}
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.travel-bg {
+    background-image: url('https://source.unsplash.com/featured/?world-map'); /* Placeholder travel/world image */
+    background-size: cover;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.tagline {
+    font-style: italic;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
